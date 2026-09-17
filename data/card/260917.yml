@@ -124,4 +124,3 @@ total:
 ---
 
 ---
-{"id":179631020,"author":{"login":"npiv","id":452020,"node_id":"MDQ6VXNlcjQ1MjAyMA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOJLpHIc4KtPOs","tag_name":"v0.7.0","target_commitish":"main","name":"v0.7.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-10-12T06:51:57Z","updated_at":"2024-10-12T06:57:22Z","published_at":"2024-10-12T06:57:22Z","assets":[],"body":"## What's Changed\r\n* chore: bump tiktoken to 0.8.0 to fix py3.13 build by @chenrui333 in https://github.com/npiv/chatblade/pull/98\r\n\r\n## New Contributors\r\n* @chenrui333 made their first contribution in https://github.com/npiv/chatblade/pull/98\r\n\r\n**Full Changelog**: https://github.com/npiv/chatblade/compare/v0.6.4...v0.7.0","mentions_count":1}
