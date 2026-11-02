@@ -1,5 +1,4 @@
-- repo: arch
-  subrepo: extra
+- repo: aur
   srcname: chatblade
   binname: chatblade
   visiblename: chatblade
@@ -7,6 +6,8 @@
   origversion: 0.7.0-3
   status: newest
   summary: A CLI Swiss Army Knife for ChatGPT
+  maintainers:
+    - fallback-mnt-aur@repology
   licenses:
     - GPL-3.0-only
 - repo: artix
@@ -39,28 +40,6 @@
   origversion: null
   status: newest
   summary: CLI Swiss Army Knife for ChatGPT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: chatblade
-  binname: chatblade
-  visiblename: chatblade
-  version: 0.7.0
-  origversion: 0.7.0-3
-  status: newest
-  summary: A CLI Swiss Army Knife for ChatGPT
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: chatblade
-  binname: chatblade
-  visiblename: chatblade
-  version: 0.7.0
-  origversion: 0.7.0-3
-  status: newest
-  summary: A CLI Swiss Army Knife for ChatGPT
-  licenses:
-    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: chatblade
@@ -136,16 +115,5 @@
   summary: CLI Swiss Army Knife for ChatGPT
   maintainers:
     - nixpkgs.bu5hq@simplelogin.com
-  licenses:
-    - GPL-3.0-only
-- repo: parabola
-  subrepo: extra
-  srcname: chatblade
-  binname: chatblade
-  visiblename: chatblade
-  version: 0.7.0
-  origversion: 0.7.0-3
-  status: newest
-  summary: A CLI Swiss Army Knife for ChatGPT
   licenses:
     - GPL-3.0-only
