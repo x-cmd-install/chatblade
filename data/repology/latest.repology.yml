@@ -51,17 +51,6 @@
   summary: A CLI Swiss Army Knife for ChatGPT
   licenses:
     - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: chatblade
-  binname: chatblade
-  visiblename: chatblade
-  version: 0.7.0
-  origversion: 0.7.0-3
-  status: newest
-  summary: A CLI Swiss Army Knife for ChatGPT
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_24_05
   srcname: chatblade
   visiblename: chatblade
