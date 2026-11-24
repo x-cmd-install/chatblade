@@ -9,28 +9,6 @@
     - nixpkgs.bu5hq@simplelogin.com
   licenses:
     - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: chatblade
-  visiblename: chatblade
-  version: 0.7.0
-  origversion: null
-  status: newest
-  summary: CLI Swiss Army Knife for ChatGPT
-  maintainers:
-    - nixpkgs.bu5hq@simplelogin.com
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: chatblade
-  visiblename: chatblade
-  version: 0.7.0
-  origversion: null
-  status: newest
-  summary: CLI Swiss Army Knife for ChatGPT
-  maintainers:
-    - nixpkgs.bu5hq@simplelogin.com
-  licenses:
-    - GPL-3.0-only
 - repo: aur
   srcname: chatblade
   binname: chatblade
@@ -73,17 +51,6 @@
   origversion: null
   status: newest
   summary: CLI Swiss Army Knife for ChatGPT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: chatblade
-  binname: chatblade
-  visiblename: chatblade
-  version: 0.7.0
-  origversion: 0.7.0-3
-  status: newest
-  summary: A CLI Swiss Army Knife for ChatGPT
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_24_05
   srcname: chatblade
   visiblename: chatblade
@@ -91,6 +58,28 @@
   origversion: null
   status: outdated
   summary: A CLI Swiss Army Knife for ChatGPT
+  maintainers:
+    - nixpkgs.bu5hq@simplelogin.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: chatblade
+  visiblename: chatblade
+  version: 0.7.0
+  origversion: null
+  status: newest
+  summary: CLI Swiss Army Knife for ChatGPT
+  maintainers:
+    - nixpkgs.bu5hq@simplelogin.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: chatblade
+  visiblename: chatblade
+  version: 0.7.0
+  origversion: null
+  status: newest
+  summary: CLI Swiss Army Knife for ChatGPT
   maintainers:
     - nixpkgs.bu5hq@simplelogin.com
   licenses:
